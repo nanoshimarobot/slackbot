@@ -13,4 +13,4 @@ def other(message, something):
     if m:
         message.reply('貴様のような高専生の分際で猫様の鳴き声を真似るか小僧')
     else:
-        message.reply('わたくしはおぜうさま')
+        message.reply('わいはおぜうさま')
