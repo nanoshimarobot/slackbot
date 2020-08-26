@@ -1,4 +1,3 @@
 ### りーどみー
  * **概要**  
- Pythonのテストを兼ねたslackbotの開発(笑)をしてヰる  
-
+ raspberrypiでslackbot飼っとる
